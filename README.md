@@ -1,4 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is the tool to manage notes/highlights into various groups. In order to run the code follow the below given steps. Basically the features are-
+1) Add new highlight using Add New Highlight button
+2) Add new group using Add New Group button
+3) Drag the created highlights in order to reorder or move them to new group.
+4) Can delete specific highlight by clicking on Delete button given in card of each highlight.
+
+Note: Some dummy highlights are added to the screen in order to show the UI. Add your own highlights so that you can see features like ordering, dragging and deleting.
+Also can add database so that the highlights added are not lost when page is refreshed.
 
 ## Getting Started
 
